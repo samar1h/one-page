@@ -11,9 +11,19 @@ const urlsToCache = [
     "android-chrome-192x192.png",
     "android-chrome-512x512.png",
     // Cache CSS
-    'static/css/main.*.css',
+    // 'static/css/main.*.css',
     // Cache JS
-    'static/js/main.*.js',
+    // 'static/js/main.*.js',
+    // Wildcard patterns (*) dont work so Hardcoding Shit, ik i suck...
+    "static/css/main.55447cda.css",
+    "static/css/main.c7690eb8.css",
+    "static/css/main.f53b863c.css",
+    "static/js/main.4686c066.js",
+    "static/js/main.73aecd8c.js",
+    "static/js/main.d5f9f340.js",
+    "static/js/main.f74bc11e.js",
+    
+    
 ];
 
 // Installation
@@ -24,6 +34,7 @@ self.addEventListener('install', event => {
                 console.log('Opened cache');
                 return cache.addAll(urlsToCache);
             })
+            .catch(error => console.error('Failed to cache resources:', error))
     );
     // Activate worker immediately
     self.skipWaiting();
