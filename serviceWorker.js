@@ -1,17 +1,18 @@
 // serviceWorker.js
 const CACHE_NAME = 'onepage-v1';
 const urlsToCache = [
-    '/',
-    '/index.html',
-    '/manifest.json',
-    '/favicon.ico',
-    '/logo192.png',
-    '/logo512.png',
+    '',
+    'index.html',
+    'manifest.json',
+    'favicon.ico',
+    'favicon.svg',
+    "android-chrome-192x192.png",
+    "android-chrome-512x512.png",
     // Cache CSS
-    '/static/css/main.*.css',
+    'static/css/main.*.css',
     // Cache JS
-    '/static/js/main.*.js',
-    '/static/js/bundle.*.js'
+    'static/js/main.*.js',
+    'static/js/bundle.*.js'
 ];
 
 // Installation
