@@ -1,4 +1,4 @@
-# OnePage
+# One Page
 > A Simple Note-Taking App to Declutter Your Mind.
 
 ### Description
