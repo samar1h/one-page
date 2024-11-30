@@ -1,5 +1,5 @@
 // serviceWorker.js
-const CACHE_NAME = 'onepage-v1';
+const CACHE_NAME = 'onepage-v3';
 const urlsToCache = [
     '',
     'index.html',
