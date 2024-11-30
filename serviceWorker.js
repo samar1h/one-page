@@ -6,13 +6,14 @@ const urlsToCache = [
     'manifest.json',
     'favicon.ico',
     'favicon.svg',
+    'favicon-16x16.png',
+    'favicon-32x32.png',
     "android-chrome-192x192.png",
     "android-chrome-512x512.png",
     // Cache CSS
     'static/css/main.*.css',
     // Cache JS
     'static/js/main.*.js',
-    'static/js/bundle.*.js'
 ];
 
 // Installation
