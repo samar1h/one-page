@@ -28,7 +28,6 @@ OnePage is a minimalist note-taking app designed to help you declutter your thou
 
 ### License : [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
 
-
 ### Screenshots:
 ![1](/screenshots/1.png)
 ![2a](/screenshots/2a.png)
@@ -40,7 +39,6 @@ OnePage is a minimalist note-taking app designed to help you declutter your thou
 ![7](/screenshots/7.png)
 ![8](/screenshots/8.png)
 ![9](/screenshots/9.png)
-
 
 ### Feedback and Support: 
 To report issues or suggest improvements, please submit an issue or pull request.
