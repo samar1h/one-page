@@ -30,7 +30,17 @@ OnePage is a minimalist note-taking app designed to help you declutter your thou
 
 
 ### Screenshots:
-[1.](/screenshots/1.png)
+![1](/screenshots/1.png)
+![2a](/screenshots/2a.png)
+![2b](/screenshots/2b.png)
+![3](/screenshots/3.png)
+![4](/screenshots/4.png)
+![5](/screenshots/5.png)
+![6](/screenshots/6.png)
+![7](/screenshots/7.png)
+![8](/screenshots/8.png)
+![9](/screenshots/9.png)
+
 
 
 
