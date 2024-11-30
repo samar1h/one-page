@@ -42,7 +42,5 @@ OnePage is a minimalist note-taking app designed to help you declutter your thou
 ![9](/screenshots/9.png)
 
 
-
-
 ### Feedback and Support: 
-We value your feedback! Please feel free to reach out to us by posting issues or pull requests.
+To report issues or suggest improvements, please submit an issue or pull request.
